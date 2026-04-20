@@ -67,6 +67,17 @@ sales-data-analysis-project/
 
 ---
 
+## 📂 Project Structure
+
+sales-data-analysis-project/
+├── dashboard/
+├── data/
+├── images/
+├── sql/
+└── README.md
+
+---
+
 ## 🎯 Conclusion
 
 This project demonstrates how SQL and data visualization tools like Power BI can be used to transform raw data into actionable insights.
